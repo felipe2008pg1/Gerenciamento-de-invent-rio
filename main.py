@@ -12,8 +12,7 @@ while True:
             nome = input("Nome: ").strip()
             qtd = int(input("Qtd: "))
             preco = float(input("Preço: "))
-
-            # VALIDAÇÃO: Só entra na lista se passar aqui
+            
             if qtd <= 0 or preco <= 0:
                 print("❌ ERRO: Valores inválidos (devem ser > 0).")
             else:
