@@ -15,7 +15,7 @@ Funcionalidades
 Como Executar
 1. Certifique-se de ter o Python instalado.
 
-2. Clone o repositório: `git clone [LINK_DO_REPO]`
+2. Clone o repositório: `git clone (https://github.com/felipe2008pg1/Gerenciamento-de-Inventario)`
 
 3. Execute o script: `python main.py`
 
