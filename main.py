@@ -17,7 +17,7 @@ while True:
                 print("❌ ERRO: Valores inválidos (devem ser > 0).")
             else:
                 item = {"nome": nome, "quantidade": qtd, "preco": preco}
-                listap.append(item) # SÓ UM APPEND, e só aqui.
+                listap.append(item)
                 print(f"✅ {nome} adicionado!")
         except ValueError:
             print("❌ ERRO: Quantidade e Preço devem ser números!")
